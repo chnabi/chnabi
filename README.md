@@ -1,7 +1,10 @@
 # 👋 Hi I'm Nabiha:
 I am a student at UNC Chapel Hill studying CS and Math (class of '27) 🐏. 
+
 🟪 I work across the stack, from backend APIs, machine learning pipelines, to ui components.
+
 🟪 Currently researching L1 regualrized optimization problems -- Particulary image denoising.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nabiha-choudhury) 
 
 # Languages:
